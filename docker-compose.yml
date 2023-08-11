@@ -2,7 +2,7 @@ version: '3'
 
 services:
   app:
-    image: ladylaura23/webacademy:latest
+    image: ladylaura/webacademy:latest
     container_name: webacademydemo
     restart: always
     ports:
